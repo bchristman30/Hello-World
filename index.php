@@ -1,1 +1,1 @@
-<?php echo "But you're sponge-BOB"; ?>
+<?php echo "Krusty Crab!"; ?>
